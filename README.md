@@ -1,1 +1,1 @@
-git@github.com:Jopengo/posmotri_v_okno.git
+github.com/Jopengo/slozhno-sosredotochitsya.git

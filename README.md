@@ -1,0 +1,1 @@
+git@github.com:Jopengo/posmotri_v_okno.git
